@@ -1,2 +1,3 @@
 # DSA
-This is learning DSA easy way and code.
+This is learning DSA.
+There is some methods for easy larin DSA problems.
